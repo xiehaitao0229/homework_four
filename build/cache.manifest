@@ -1,0 +1,13 @@
+CACHE MANIFEST
+# Time: Sat Mar 10 2018 08:46:20 GMT+0800 (中国标准时间)
+# koatesting
+
+CACHE:
+../public/css/vendor.css
+../public/scripts/common/vendor.min.js
+../public/scripts/index.js
+../public/scripts/tags.js
+
+NETWORK:
+http:////cdn.bootcss.com/ *
+http://localhost:35729/livereload.js
